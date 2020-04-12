@@ -26,6 +26,6 @@
 3. numpy
 
 ## Code Execution 
-`<cd Lane-Detection---Curve-Estimation-Method>` 
+`cd Lane-Detection---Curve-Estimation-Method` 
 
-`<python lane-detection.py>` 
+`python lane-detection.py` 
